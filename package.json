@@ -2,7 +2,7 @@
   "name": "lg-autoupdate",
   "version": "1.0.0",
   "description": "Adds the possiblity to lightgallery to update the gallery after new images are added to the gallery",
-  "main": "index.js",
+  "main": "dist/lg-autoupdate.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
